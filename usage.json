@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T08:00:00+08:00",
+  "updated_at": "2026-11-18T13:58:29+08:00",
   "muse": {
     "plan": "Power",
-    "weekly_used_pct": 15,
+    "weekly_used_pct": 20,
     "weekly_reset": "2026-11-23T20:00:00+08:00",
     "weekly_reset_label": "11/23 週一 20:00 重置",
     "extra_used_pct": 1,
