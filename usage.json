@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-23T19:56:56+08:00",
+  "updated_at": "2026-11-24T08:00:11+08:00",
   "muse": {
     "plan": "Power",
-    "weekly_used_pct": 81,
-    "weekly_reset": "2026-11-23T20:00:00+08:00",
-    "weekly_reset_label": "11/23 週一 20:00 重置",
+    "weekly_used_pct": 3,
+    "weekly_reset": "2026-11-30T20:00:00+08:00",
+    "weekly_reset_label": "11/30 週一 20:00 重置",
     "extra_used_pct": 1,
     "extra_tokens_left": 989000000,
     "extra_tokens_left_label": "約 989M tokens"
